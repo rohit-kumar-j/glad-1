@@ -1,0 +1,5 @@
+version: "1"
+rules:
+  - base: glad2
+    upstream:  Dav1dde:glad2    # change `wei` to the owner of upstream repo
+    mergeMethod: hardreset
